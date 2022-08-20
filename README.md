@@ -10,7 +10,7 @@
 ![Frontend](https://skillicons.dev/icons?i=css,html,js)
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=go,cs,java,python)<br/>
+![Backend](https://skillicons.dev/icons?i=cs,go,java,python)<br/>
 
 ### Mobile
 ![Mobile](https://skillicons.dev/icons?i=flutter,kotlin,swift)
