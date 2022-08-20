@@ -1,21 +1,22 @@
-## I'm 楓💜
-
 ## Todo
 - [ ] 🇯🇵→🇦🇺
 
 ## Skills
 
 ### Learning
-![My Skills](https://skillicons.dev/icons?i=react,ts,kubernetes)
+![Learning](https://skillicons.dev/icons?i=kubernetes,react,rust,ts)
 
 ### Frontend
-![My Skills](https://skillicons.dev/icons?i=css,html,js)
+![Frontend](https://skillicons.dev/icons?i=bootstrap,css,html,js)
 
 ### Backend
-![My Skills](https://skillicons.dev/icons?i=cs,go,java)
+![Backend](https://skillicons.dev/icons?i=cs,go,java,python,spring)
 
 ### Mobile
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,kotlin)
+![Mobile](https://skillicons.dev/icons?i=dart,flutter,kotlin,swift)
 
-### PaaS
-![My Skills](https://skillicons.dev/icons?i=docker,heroku)
+### Database
+![Database](https://skillicons.dev/icons?i=firebase,mongodb,mysql,redis,sqlite)
+
+### Services
+![Service](https://skillicons.dev/icons?i=aws,docker,heroku)
