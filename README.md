@@ -1,5 +1,5 @@
-### 📖Study
-![Learn](https://skillicons.dev/icons?i=react,python)
+### 📖Learning
+![Learn](https://skillicons.dev/icons?i=react)
 
 ### 🌏Location
 - [x] 🇭🇰→🇯🇵
