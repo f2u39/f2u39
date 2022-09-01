@@ -1,5 +1,5 @@
 ### 📖Learning
-![Learn](https://skillicons.dev/icons?i=react,ts)
+![Learn](https://skillicons.dev/icons?i=go,react,ts)
 
 ### 🌏Location
 - [x] 🇭🇰→🇯🇵
