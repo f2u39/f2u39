@@ -1,2 +1,2 @@
 ### 📖Learning
-![Learn](https://skillicons.dev/icons?i=go,react,ts,flutter,swift,docker)
+![Learn](https://skillicons.dev/icons?i=go,react,ts,flutter,swift,docker,c,cpp)
